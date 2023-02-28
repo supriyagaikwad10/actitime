@@ -8,3 +8,13 @@ find_element_by_partialLinktext
 find_element_by_tagJName
 find_element_by_css
 find_element_by_xpath
+
+
+ind_element_by_id
+find_element_by_name
+find_element_by_class
+find_element_by_linktext
+find_element_by_partialLinktext
+find_element_by_tagJName
+find_element_by_css
+find_element_by_xpath
